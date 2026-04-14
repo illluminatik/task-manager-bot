@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiogram==3.7.0
+sqlalchemy[asyncio]
+asyncpg
+aiohttp
+apscheduler
+pydantic
+python-dotenv
+bcrypt
